@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/cancer/brain.h5ad
+
+data/normal/lymph.h5ad
