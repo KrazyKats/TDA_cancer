@@ -1,6 +1,6 @@
 # Topological Data Analysis of Cancer
 
-This is documentation of the source code in the repository. To view the paper please visit "insert linke here".
+This is documentation of the source code in the repository.
 
 
 To use the code, open ```present.ipynb``` and run first 3 cells, change data folder directory, data_file name, and title inputs in cell 3. And Run the remaining cells. All output visualizations will be outputted to ```output_html``` for mapper visualizations and ```output``` for heatmap outputs.
